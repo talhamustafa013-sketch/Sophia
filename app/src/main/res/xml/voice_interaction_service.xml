@@ -1,4 +1,3 @@
 <voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
-    android:sessionService="com.talhamustafa.sophia.SophiaSessionService"
-    android:supportsAssist="true"
-    android:supportsLaunchFromKeyguard="false" />
+    android:sessionService="com.talhamusta.sophia.SophiaSessionService"
+    android:supportsAssist="true" />
