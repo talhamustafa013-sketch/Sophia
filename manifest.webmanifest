@@ -1,0 +1,18 @@
+{
+  "name": "Sophia Personal Assistant",
+  "short_name": "Sophia",
+  "description": "Your personal voice assistant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0b17",
+  "theme_color": "#100d20",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
